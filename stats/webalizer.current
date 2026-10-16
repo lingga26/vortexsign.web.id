@@ -1,0 +1,1677 @@
+# Webalizer V2.23-08 Incremental Data - 10/13/2026 23:56:22
+2026 10 13 23 56 22
+7751 2844 290 87 84 144 637851248 5588 386 0
+21 7 1038 1 13
+332 185 63398251 21 200 14
+195 26 390187 28 53 23
+122 37 225957 20 52 12
+401 73 1285700 36 82 31
+48 20 75263 17 22 13
+56 24 74316 17 26 15
+612 455 25879471 37 529 35
+960 692 112856941 29 840 46
+292 46 27628803 21 241 27
+502 73 1203008 17 202 26
+3202 1025 396761862 45 3010 86
+702 149 7195362 42 289 42
+327 39 876127 21 42 16
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+373 130 242592751 258
+66 30 27944463 37
+31 12 6883064 14
+44 19 53107 8
+359 33 1023326 104
+295 69 5016064 254
+30 15 38284 10
+274 88 797108 233
+415 293 24870031 354
+111 60 370198 73
+147 97 1697576 122
+153 79 4842256 85
+92 45 5110531 54
+80 44 5247873 36
+94 34 225670 52
+476 329 135975014 376
+195 100 11154415 136
+448 82 100732913 177
+1212 374 3939754 1178
+1152 344 27277866 1118
+355 210 2107721 240
+561 149 22330960 190
+353 113 5010395 319
+435 95 2609908 160
+28
+0
+0
+2844
+6
+0
+0
+690
+0
+225
+0
+468
+584
+0
+22
+0
+0
+0
+4
+0
+904
+1950
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+0
+0
+0
+0
+0
+# -urls- 
+/signage/create
+0 9 394501803572021497 52930 0 0
+/media/iklan/1779189835_Men_s_Face_Wash_Ad_Video.mp4
+0 1 0 4504117 0 0
+/distribusi/create
+0 55 0 300876 0 1
+/api/device/9c4d363af7a0de61/jadwal
+0 83 0 43183 0 3
+/api/device/37122af7b716c76c/status
+0 9 0 666 0 0
+/file-iklan
+0 91 0 545858 2 1
+/distribusi/46/edit
+0 4 0 26140 1 0
+/api/device/WOS-5XOVEYQW4/status
+0 14 0 689 0 0
+/app/vortex.apk
+0 15 0 66165588 0 0
+/jadwal
+0 216 0 1368954 1 2
+/media/iklan/1786035632_s20250305083514.mp4
+0 40 14075311377806514246 34026286 0 0
+/jadwal/11/edit
+0 12 13916019737472921214 69177 0 0
+/api/device/register
+0 4 14780402852948142962 725 1 0
+/api/device/37122af7b716c76c/jadwal
+0 43 88 23656 2 3
+/migrasi-plan-b.php
+0 2 0 1707 0 0
+/distribusi/36/edit
+0 2 17381112106731261861 13118 0 0
+/signage/22/edit
+0 1 1334009975649890238 6198 0 0
+/signage/29/edit
+0 1 8573033837759648693 6208 0 0
+/api/device/WOS-MV2RDLRD/status
+0 9 10552545826968843579 477 0 0
+/distribusi/35/edit
+0 2 5681478168544905931 11906 0 0
+/distribusi/30/edit
+0 7 17689382322260857208 38715 0 0
+/app/vortex.ipk
+0 10 0 212216 0 0
+/favicon.ico
+0 50 0 8837 0 0
+/api/device/d5f2090886bf5081/jadwal
+0 25 11085 11050 1 0
+/api/device/9c4d363af7a0de61/status
+0 22 26214 1628 0 0
+/media/3/iklan/1791774391_1000118843.mp4
+0 2 52590 5133068 0 0
+/jadwal/9/edit
+0 15 6542 85777 2 0
+/signage/27/edit
+0 1 30585 6211 0 0
+/model-signage/create
+0 1 0 5130 0 0
+/distribusi/31/edit
+0 4 0 20760 0 0
+/distribusi/42/edit
+0 3 0 19594 0 0
+/info.php
+0 9 0 236749 0 0
+/jadwal/13/edit
+0 1 18446648484917412556 6486 0 0
+/distribusi/29
+0 1 18446683119533688188 0 0 0
+/distribusi
+0 238 18446695970075838500 1346600 9 3
+/media/iklan/1786054433_s20260720225220.mp4
+0 47 120259084324 226846890 0 0
+/toko/2/edit
+0 3 1156934722048229480 20393 0 0
+/file-iklan/create
+0 8 1027410114511900227 44424 0 0
+/jadwal/12/edit
+0 1 1563368095816 6719 0 0
+/dashboard
+0 96 812627115077799491 660441 2 7
+/media/iklan/1781783041_1000076943.mp4
+0 4 5985530256685062158 5133021 0 0
+/clients/create
+0 2 3075196583952 13578 0 0
+/media/iklan/1786036008_s20260731181706.mp4
+0 16 1028230894807040512 6682957 0 0
+/api/device/WOS-IO8E3MHD7/status
+0 60 429496729600 3180 1 2
+/api/device/WOS-IO8E3MHD7/jadwal
+0 446 4756801865403400847 185020 8 25
+/signage/19/edit
+0 4 2309856398692921358 22721 0 0
+/login
+0 363 5755256176660 1020709 46 31
+/media/iklan/1779125978_You are an idiot HAHAHAHAHA!.mp4
+0 1 412316845928 395952 0 0
+/media/iklan/1779190078_Jokowi 
+0 36 154618824718 67657369 1 1
+/signage/26/edit
+0 1 7473243095124 6219 0 0
+/toko
+0 67 327953593477074456 432725 1 0
+/api/ping
+0 16 8435315769380 0 22 2
+/media/iklan/1785999981_s20260731181543.mp4
+0 37 1027401318418353730 25429164 0 0
+/clients
+0 12 327953593527406104 80674 0 1
+/model-signage/6/edit
+0 6 240518168587 32663 0 0
+/model-signage/12/edit
+0 1 4039167835699318798 6281 0 0
+/api/device/WOS-5XOVEYQW4/jadwal
+0 119 0 48988 6 2
+/distribusi/32/edit
+0 1 0 5197 0 0
+/distribusi/25/edit
+0 1 0 5188 0 0
+/jadwal/create
+0 52 0 292024 1 1
+/jadwal/10/edit
+0 8 0 43957 0 0
+/file-iklan/21/edit
+0 1 0 6204 0 0
+/
+0 5 0 1120 231 24
+/distribusi/lokasi
+0 31 0 191418 0 0
+/distribusi/44/edit
+0 2 0 13122 0 0
+/media/iklan/1779129372_Burger_commercial_transition_202604012127.mp4
+0 73 0 164425273 0 0
+/distribusi/24/edit
+0 1 0 5169 0 0
+/app/vortexsign.ipk
+0 4 0 71387 0 0
+/distribusi/38/edit
+0 1 0 6547 0 0
+/distribusi/47/edit
+0 2 0 13136 0 0
+/distribusi/40/edit
+0 4 0 26242 0 0
+/signage/21/edit
+0 1 0 5121 0 0
+/distribusi/29/edit
+0 2 27 10382 0 0
+/api/device/WOS-MV2RDLRD/jadwal
+0 60 3 26194 0 2
+/robots.txt
+0 263 24 11660 0 0
+/distribusi/49/edit
+0 1 0 6584 0 0
+/distribusi/45/edit
+0 1 4198 6580 0 0
+/toko/create
+0 4 4422 25441 0 0
+/signage/23/edit
+0 2 3328773859097717077 12395 0 0
+/api/device/d5f2090886bf5081/status
+0 3 32783474434637940 222 0 0
+/distribusi/33/edit
+0 1 1953391981 5189 0 0
+/distribusi/34/edit
+0 1 2 5439 0 0
+/signage/24/edit
+0 2 1184 12429 0 0
+/signage
+0 136 2 798220 2 3
+/signage/28/edit
+0 1 24 6221 0 0
+/model-signage
+0 69 0 370517 1 2
+/media/iklan/1779129336_Perfume_Commercial_Generation_Request.mp4
+0 10 6 10021401 0 0
+# End Of Table - urls
+# -sites- (monthly)
+198.235.24.41
+0 1 0 1043 1 1791342367
+/
+114.8.207.14
+0 8 6 17508874 1 1791739950
+-
+180.153.236.53
+0 1 0 1047 1 1791721497
+/
+178.73.224.167
+0 1 0 1014 0 0
+-
+136.86.254.31
+0 3 2 5149 1 1791355891
+/login
+140.213.11.104
+0 40 33 5038702 1 1791461436
+/dashboard
+47.100.35.172
+0 1 1 23888 0 0
+-
+66.132.172.138
+0 1 0 1043 1 1791388362
+/
+144.172.97.202
+0 2 0 2960 0 0
+-
+66.132.172.206
+0 1 0 1556 1 1791473415
+/
+216.73.216.158
+0 8 4 8064 0 0
+-
+74.161.160.33
+0 18 4 35941 2 1791823534
+-
+180.153.236.77
+0 1 0 1047 1 1791131311
+/
+205.210.31.58
+0 1 0 1694 1 1790961537
+/
+185.123.35.208
+0 1 0 1006 1 1791101530
+/
+193.183.173.193
+0 1 0 2585 0 0
+-
+125.163.25.31
+0 96 76 5355584 4 1790867679
+/api/device/37122af7b716c76c/jadwal
+194.71.203.81
+0 1 1 3635 1 1791396682
+/login
+180.241.67.169
+0 112 32 42998 2 1791831876
+/api/device/WOS-IO8E3MHD7/jadwal
+23.180.120.149
+0 2 0 3018 0 0
+-
+145.241.126.126
+0 9 2 17973 1 1791709988
+-
+199.45.155.28
+0 1 0 1043 1 1790959239
+/
+103.59.161.216
+0 117 1 184284 10 1791617471
+-
+45.148.10.95
+0 3 0 4176 1 1791368089
+/
+91.92.240.86
+0 2 0 3150 0 0
+-
+45.138.12.53
+0 13 0 16523 1 1790872656
+-
+87.236.176.95
+0 3 1 6166 1 1791183929
+/login
+3.151.194.164
+0 7 3 16551 2 1791362520
+/login
+180.153.236.14
+0 1 1 2404 1 1791721518
+/login
+147.185.132.123
+0 1 0 1694 1 1791152968
+/
+94.154.43.146
+0 3 1 10899 3 1791562895
+/
+35.187.36.114
+0 2 0 3030 1 1790939863
+/
+119.28.110.133
+0 15 3 39082 2 1791745013
+-
+182.3.42.100
+0 352 223 270292792 7 1791683956
+/login
+46.202.140.154
+0 4 2 10336 1 1790995196
+/login
+94.154.43.135
+0 2 1 9262 2 1791914855
+/
+216.73.216.232
+0 33 16 34248 0 0
+-
+100.61.128.252
+0 3 2 2653 1 1791796871
+/login
+66.132.172.211
+0 1 0 1043 1 1791513364
+/
+66.132.159.21
+0 3 2 5623 1 1791863756
+/login
+185.13.98.176
+0 1 0 1016 0 0
+-
+213.209.159.133
+0 43 2 105082 1 1790854215
+-
+93.158.91.37
+0 1 1 3636 1 1791015949
+/login
+198.235.24.14
+0 1 0 6913 0 0
+-
+54.74.6.47
+0 1 0 1688 1 1791880831
+/
+180.153.236.73
+0 1 0 208 1 1790924033
+/
+45.76.192.182
+0 2 0 3030 1 1791144635
+/
+157.230.43.216
+0 6 2 15422 1 1791413142
+-
+216.73.217.135
+0 144 72 145152 0 0
+-
+40.86.204.64
+0 27 6 53922 3 1791771446
+-
+51.75.21.177
+0 1 1 3312 1 1791089266
+/login
+93.152.220.139
+0 15 1 25215 2 1791374762
+/login
+161.35.91.42
+0 2 0 3677 0 0
+-
+192.71.87.92
+0 1 0 1511 1 1791613856
+/
+85.204.70.98
+0 21 1 133711 1 1791133148
+/login
+68.221.17.41
+0 9 2 17971 1 1791827675
+-
+54.172.248.223
+0 3 1 6205 1 1790881035
+/login
+140.213.15.59
+0 4 3 9889 1 1791475763
+/dashboard
+194.71.202.178
+0 1 1 3635 1 1791613857
+/login
+180.153.236.88
+0 1 1 2404 1 1790924035
+/login
+36.65.255.163
+0 293 233 63120937 9 1791578021
+/login
+167.172.72.4
+0 6 0 17958 1 1791410550
+-
+195.178.110.106
+0 4 0 6036 0 0
+-
+3.238.150.238
+0 3 2 2653 1 1791806913
+/login
+192.175.111.239
+0 1 1 3635 1 1791582564
+/login
+45.4.3.59
+0 4 2 4901 1 1791532052
+/login
+34.169.234.246
+0 3 2 5145 1 1791875193
+/login
+178.73.243.232
+0 1 0 1511 1 1791015948
+/
+13.77.43.211
+0 9 2 17971 1 1791795034
+-
+198.235.24.181
+0 3 1 10407 1 1791050651
+/login
+91.196.152.126
+0 1 0 1637 1 1791729860
+/
+136.109.126.249
+0 3 2 5149 1 1791279720
+/login
+74.7.228.18
+0 1 1 24 0 0
+-
+23.21.20.190
+0 3 2 2652 1 1791796875
+/login
+3.90.72.181
+0 2 1 5161 1 1791746728
+/login
+198.235.24.217
+0 1 0 1674 1 1791400401
+/
+193.235.141.17
+0 1 1 3634 1 1791923095
+/login
+87.236.176.54
+0 1 1 0 0 0
+-
+66.132.195.124
+0 2 1 5228 1 1790960929
+/login
+34.231.153.85
+0 2 1 5163 1 1791673438
+/login
+180.153.236.227
+0 1 0 204 1 1791763055
+/
+147.185.132.52
+0 1 0 6913 0 0
+-
+155.2.215.65
+0 1 0 2622 0 0
+-
+180.153.236.87
+0 1 1 2403 1 1791763061
+/login
+94.154.43.158
+0 3 0 4713 1 1791390023
+/
+185.116.240.193
+0 1 1 349 0 0
+-
+74.7.227.134
+0 1 0 0 1 1790981135
+/
+3.249.62.149
+0 3 2 2628 1 1791656625
+/login
+34.182.107.94
+0 3 2 5148 1 1790931249
+/login
+35.204.166.221
+0 2 1 5171 1 1790877337
+/login
+64.233.173.235
+0 6 0 6258 3 1791432303
+/
+46.101.190.13
+0 9 1 29762 1 1791922375
+-
+193.235.141.235
+0 1 0 1511 1 1791923094
+/
+96.89.227.150
+0 4 2 4898 1 1791897867
+/login
+180.153.236.91
+0 1 1 24 0 0
+-
+198.235.24.212
+0 1 0 1694 1 1791772896
+/
+74.7.175.177
+0 1 1 24 0 0
+-
+143.198.230.165
+0 5 2 7754 1 1791217913
+/login
+185.139.172.212
+0 1 1 349 0 0
+-
+140.213.9.91
+0 1 1 6444 1 1791475837
+/distribusi
+144.172.98.114
+0 1 0 1538 0 0
+-
+118.99.76.254
+0 1047 888 97084375 10 1791486158
+/model-signage
+74.7.241.33
+0 2 0 169 1 1791306217
+/login
+64.233.173.224
+0 16 9 39964 6 1791762547
+/
+216.73.216.128
+0 173 86 175368 0 0
+-
+216.25.124.26
+0 3 1 6665 2 1791818071
+/
+93.123.109.226
+0 5 1 24085 1 1791727919
+-
+94.154.43.129
+0 1 1 7625 1 1791390024
+/login
+193.183.77.2
+0 1 1 3635 1 1791703743
+/login
+64.233.173.226
+0 12 6 28644 5 1791762546
+/login
+192.36.109.202
+0 1 0 1006 1 1791613855
+/
+5.133.192.94
+0 3 2 5658 1 1791450280
+/login
+94.154.43.84
+0 2 1 9262 2 1791914857
+/login
+194.32.120.72
+0 1 0 2622 0 0
+-
+180.153.236.139
+0 1 0 204 1 1791174390
+/
+52.2.115.67
+0 1 0 1047 1 1791781671
+/
+95.173.222.49
+0 2 0 3685 0 0
+-
+193.32.162.175
+0 1 0 1480 0 0
+-
+17.166.236.4
+0 2 0 2096 1 1791832933
+/
+136.87.5.108
+0 3 2 5147 1 1791453938
+/login
+93.158.92.62
+0 1 0 1006 1 1791783287
+/
+193.235.141.244
+0 1 0 1511 1 1791093490
+/
+180.153.236.46
+0 1 1 2405 1 1791131316
+/login
+198.235.24.42
+0 1 0 1043 1 1791547456
+/
+44.242.223.116
+0 3 1 10152 1 1791730962
+/login
+216.73.216.30
+0 40 20 40320 0 0
+-
+180.153.236.150
+0 2 2 4802 2 1791464873
+/login
+34.221.180.19
+0 1 0 2622 1 1791730963
+-
+180.153.236.44
+0 1 0 1043 1 1791114782
+/
+193.234.232.100
+0 1 0 1006 1 1791396680
+/
+140.248.50.26
+0 1 0 2622 0 0
+-
+84.32.34.23
+0 2 1 9302 1 1790919786
+/login
+172.86.81.110
+0 10 0 17400 0 0
+-
+180.153.236.18
+0 1 0 208 1 1791131312
+/
+192.175.111.228
+0 1 0 1006 1 1791582561
+/
+180.153.236.3
+0 1 0 1047 1 1791464864
+/
+198.235.24.168
+0 2 1 9336 1 1791050839
+/login
+216.73.216.138
+0 66 33 66528 0 0
+-
+180.153.236.251
+0 1 0 1043 1 1791478148
+/
+146.112.163.37
+0 3 2 5143 1 1791836902
+/login
+104.168.28.15
+0 3 0 4028 1 1791719409
+/
+104.234.53.251
+0 1 0 2622 0 0
+-
+103.154.109.227
+0 2741 1040 155671823 51 1791799647
+/jadwal
+158.140.180.66
+0 5 5 1472 1 1790886978
+/api/device/d5f2090886bf5081/status
+167.94.146.60
+0 1 0 1047 1 1791209067
+/
+65.108.95.176
+0 4 2 4899 1 1791570612
+/login
+180.153.236.202
+0 1 1 24 0 0
+-
+169.40.142.132
+0 2 0 3649 1 1791270633
+-
+147.185.132.234
+0 1 0 1694 1 1791344154
+/
+103.203.45.79
+0 4 2 8077 1 1791900573
+/login
+77.36.127.26
+0 1 0 169 1 1791406368
+/
+199.45.154.71
+0 2 1 5229 1 1790967256
+/login
+93.158.91.245
+0 1 0 1016 0 0
+-
+198.235.24.119
+0 1 0 1043 1 1790964239
+/
+62.60.130.173
+0 164 0 210904 5 1791584068
+-
+45.131.193.151
+0 1 0 2622 0 0
+-
+74.7.228.15
+0 1 1 24 0 0
+-
+134.199.155.78
+0 2 0 3677 0 0
+-
+173.249.253.179
+0 3 1 1212 1 1791729132
+/
+17.166.235.95
+0 1 1 24 0 0
+-
+18.201.236.180
+0 1 0 1668 1 1791917584
+/
+178.73.249.104
+0 1 0 1006 1 1791703741
+/
+23.132.164.67
+0 8 2 15325 2 1791921699
+/login
+185.12.251.168
+0 1 1 3635 1 1791783289
+/login
+94.154.43.180
+0 1 0 1637 1 1791763726
+/
+180.153.236.17
+0 1 0 204 1 1791114798
+/
+210.210.175.140
+0 2 1 5161 1 1791792067
+/login
+138.246.253.7
+0 2 0 0 2 1791588624
+/
+207.180.29.7
+0 6 1 15592 1 1791384750
+-
+8.231.190.118
+0 3 2 5146 1 1790857182
+/login
+205.210.31.200
+0 1 0 1043 1 1791153471
+/
+91.98.99.222
+0 10 4 39192 2 1791495760
+/login
+35.215.29.6
+0 228 1 702504 1 1791912740
+/
+34.94.208.26
+0 228 1 702452 1 1791157073
+/
+17.166.233.228
+0 1 0 1057 0 0
+-
+180.153.236.20
+0 1 1 2401 1 1791763064
+/login
+35.207.43.170
+0 2 1 2604 1 1790949596
+/login
+64.233.173.234
+0 6 0 6258 3 1791762547
+/
+145.241.106.3
+0 9 2 17972 1 1791834706
+-
+66.132.186.175
+0 1 0 1043 1 1790967268
+/
+193.32.162.213
+0 2 0 2591 1 1791190446
+/
+17.166.236.246
+0 2 0 2104 1 1791834244
+/
+100.50.65.86
+0 2 1 5173 1 1791673438
+/login
+80.94.92.113
+0 3 1 5808 1 1791775527
+/login
+180.153.236.95
+0 1 0 1043 1 1791174359
+/
+74.7.230.36
+0 1 1 24 0 0
+-
+180.153.236.149
+0 1 0 208 1 1791464867
+/
+192.121.38.126
+0 1 0 1511 1 1791101530
+/
+198.235.24.27
+0 3 1 10379 1 1791493990
+/login
+35.175.204.137
+0 2 1 2210 1 1791631788
+/login
+194.71.103.153
+0 1 1 3635 1 1791093491
+/login
+193.180.223.247
+0 1 0 1006 1 1791923093
+/
+146.247.234.9
+0 1 0 1006 1 1791306123
+/
+216.126.237.47
+0 5 0 7400 0 0
+-
+180.153.236.83
+0 1 0 208 1 1791721505
+/
+157.245.152.32
+0 1 0 1096 0 0
+-
+185.141.88.140
+0 1 0 1511 1 1791783288
+/
+149.154.161.245
+0 1 1 6812000 0 0
+-
+180.153.236.223
+0 1 1 2401 1 1791478224
+/login
+178.211.139.240
+0 6 0 11028 0 0
+-
+138.246.253.24
+0 4 4 1544 0 0
+-
+193.183.83.60
+0 1 0 1511 1 1791703741
+/
+66.132.172.194
+0 3 2 5633 1 1791208632
+/login
+108.130.191.217
+0 2 0 1485 1 1791808043
+/
+34.145.119.148
+0 3 2 5148 1 1791024903
+/login
+91.196.152.32
+0 1 0 1006 1 1791729884
+/
+185.13.43.194
+0 1 0 1006 1 1791093490
+/
+209.97.180.8
+0 30 2 82101 1 1791016759
+-
+184.195.167.207
+0 3 2 2653 1 1791806906
+/login
+34.228.153.184
+0 7 4 7090 1 1791534920
+/login
+15.235.180.114
+0 4 0 0 4 1791729012
+/
+17.166.235.189
+0 3 2 2631 1 1791834247
+/login
+202.61.233.150
+0 2 1 5157 1 1791291532
+/login
+34.34.253.158
+0 2 1 5160 1 1791759357
+/login
+180.153.236.15
+0 3 0 2308 2 1791478179
+/
+74.7.242.55
+0 1 0 0 1 1791079454
+/
+46.224.210.134
+0 2 1 2603 1 1791274704
+/login
+136.67.251.178
+0 3 2 5147 1 1791103488
+/login
+159.253.216.218
+0 1 1 3633 1 1791101532
+/login
+180.243.178.203
+0 3 2 2210 1 1791129514
+/login
+194.71.208.182
+0 1 0 1511 1 1791396681
+/
+27.111.11.25
+0 4 1 10347 1 1790969372
+/login
+16.216.88.147
+0 3 2 2236 1 1791102748
+/login
+83.140.111.201
+0 1 1 3636 1 1791306125
+/login
+77.74.177.114
+0 2 1 5157 1 1791297516
+/login
+5.133.221.169
+0 1 0 1511 1 1791306124
+/
+94.154.43.125
+0 4 2 18425 3 1791763728
+/login
+66.132.224.251
+0 1 0 1047 1 1791836935
+/
+212.56.54.24
+0 7 4 17313 1 1791409965
+/login
+180.153.236.16
+0 1 0 1043 1 1791763044
+/
+180.153.236.39
+0 1 1 24 0 0
+-
+54.69.130.56
+0 2 1 9336 1 1791132126
+/login
+17.166.233.85
+0 3 2 2627 1 1791832935
+/login
+95.111.252.50
+0 11 0 16717 0 0
+-
+114.4.215.131
+0 11 4 944 1 1791830693
+/api/ping
+136.67.195.225
+0 3 2 5146 1 1791183847
+/login
+94.26.106.214
+0 103 1 528476 3 1791577548
+/
+205.210.31.204
+0 1 0 1694 1 1791395972
+/
+180.153.236.230
+0 1 0 204 1 1791763050
+/
+8.231.238.167
+0 3 2 5149 1 1791702557
+/login
+74.7.241.48
+0 1 0 0 1 1791389792
+/
+54.147.123.152
+0 5 2 11374 2 1791781673
+/login
+207.170.177.204
+0 1 0 168 1 1791405890
+/
+167.94.146.63
+0 1 0 1047 1 1790961438
+/
+127.0.0.1
+0 2 0 3150 0 0
+-
+192.42.85.90
+0 4 2 4900 1 1791808162
+/login
+51.75.24.242
+0 1 0 1511 1 1791088221
+/
+205.210.31.83
+0 1 0 6913 0 0
+-
+167.94.146.62
+0 1 0 1047 1 1790965704
+/
+66.132.195.112
+0 3 2 5620 1 1791387782
+/login
+180.153.236.47
+0 1 1 2400 1 1791114802
+/login
+104.196.102.109
+0 360 0 1476334 6 1791840675
+-
+138.197.152.195
+0 9 1 29762 1 1791935782
+-
+114.124.237.153
+0 1 1 4981137 0 0
+-
+157.245.105.107
+0 29 2 79548 3 1790915918
+-
+62.141.44.236
+0 3 1 3647 1 1791047911
+/login
+66.132.195.61
+0 1 0 1047 1 1791317531
+/
+66.132.224.229
+0 2 1 5219 1 1790960624
+/login
+103.73.67.46
+0 2 0 3030 1 1791314607
+/
+205.210.31.14
+0 2 1 9336 1 1791656371
+/login
+35.252.152.178
+0 3 2 5149 1 1791792390
+/login
+93.152.221.226
+0 9 2 20168 1 1790992355
+-
+144.172.109.237
+0 1 0 1480 0 0
+-
+5.133.219.176
+0 1 0 1014 0 0
+-
+83.140.240.80
+0 1 0 2585 0 0
+-
+66.132.195.115
+0 2 1 5229 1 1791840516
+/login
+64.233.173.233
+0 7 0 7301 4 1791762386
+/
+94.154.43.74
+0 2 0 3076 0 0
+-
+68.183.180.73
+0 62 4 169511 6 1791618344
+-
+180.153.236.51
+0 1 1 2397 1 1791174414
+/login
+16.148.50.140
+0 3 1 6203 1 1791730336
+/login
+94.154.43.164
+0 1 0 1538 0 0
+-
+140.213.2.242
+0 1 0 169 1 1791475758
+/
+194.165.22.100
+0 2 1 5161 1 1791334480
+/login
+189.75.178.187
+0 1 0 2622 0 0
+-
+178.73.242.130
+0 1 0 1006 1 1791015947
+/
+35.219.231.255
+0 228 1 702560 1 1791607823
+/
+36.65.250.98
+0 253 61 4966605 4 1791698150
+-
+87.236.176.23
+0 2 1 5156 1 1791181048
+/login
+156.230.214.17
+0 4 1 7714 1 1791021459
+/login
+205.210.31.201
+0 1 0 1694 1 1791583970
+/
+168.138.205.35
+0 1 0 1556 1 1791757238
+/
+44.206.113.158
+0 2 1 5172 1 1791502502
+/login
+67.227.37.224
+0 2 1 2206 1 1791679588
+/login
+64.233.173.225
+0 14 6 31664 7 1791762548
+/login
+192.104.34.34
+0 3 2 8133 1 1791103787
+/login
+3.93.133.181
+0 3 1 6219 2 1791781673
+/login
+45.198.224.94
+0 1 0 2585 0 0
+-
+192.175.111.231
+0 1 0 1511 1 1791582562
+/
+151.241.171.190
+0 6 0 11064 1 1790931835
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+94.154.43.135
+0 1 0 1637 1 1791914855
+/
+66.132.159.21
+0 3 2 5623 1 1791863756
+/login
+54.74.6.47
+0 1 0 1688 1 1791880831
+/
+216.73.217.135
+0 8 4 8064 0 0
+-
+34.169.234.246
+0 3 2 5145 1 1791875193
+/login
+193.235.141.17
+0 1 1 3634 1 1791923095
+/login
+46.101.190.13
+0 9 1 29762 1 1791922375
+-
+193.235.141.235
+0 1 0 1511 1 1791923094
+/
+96.89.227.150
+0 4 2 4898 1 1791897867
+/login
+94.154.43.84
+0 1 1 7625 1 1791914857
+/login
+216.73.216.30
+0 40 20 40320 0 0
+-
+140.248.50.26
+0 1 0 2622 0 0
+-
+103.203.45.79
+0 4 2 8077 1 1791900573
+/login
+18.201.236.180
+0 1 0 1668 1 1791917584
+/
+23.132.164.67
+0 8 2 15325 2 1791921699
+/login
+35.215.29.6
+0 228 1 702504 1 1791912740
+/
+193.180.223.247
+0 1 0 1006 1 1791923093
+/
+157.245.152.32
+0 1 0 1096 0 0
+-
+94.154.43.125
+0 1 0 1538 0 0
+-
+138.197.152.195
+0 9 1 29762 1 1791935782
+-
+189.75.178.187
+0 1 0 2622 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://vortexsign.web.id/wp-json/
+0 1
+https://vortexsign.web.id/jadwal/9/edit
+0 10
+https://vortexsign.web.id/media/iklan/1786036008_s20260731181706.mp4
+0 8
+http://www.vortexsign.web.id/robots.txt
+0 1
+https://vortexsign.web.id/model-signage/6/edit
+0 5
+http://www.vortexsign.web.id/
+0 6
+https://vortexsign.web.id/toko/2/edit
+0 5
+http://vortexsign.web.id/.git-credentials
+0 1
+https://www.vortexsign.web.id/
+0 13
+https://vortexsign.web.id/media/iklan/1779129372_Burger_commercial_transition_202604012127.mp4
+0 3
+https://vortexsign.web.id/signage/23/edit
+0 6
+http://vortexsign.web.id/robots.txt
+0 2
+https://vortexsign.web.id/clients/create
+0 4
+https://vortexsign.web.id/signage/24/edit
+0 4
+https://vortexsign.web.id/model-signage/create
+0 1
+https://vortexsign.web.id/distribusi/47/edit
+0 3
+https://vortexsign.web.id/feed/
+0 1
+https://vortexsign.web.id/model-signage
+0 69
+https://vortexsign.web.id/distribusi/30/edit
+0 3
+https://vortexsign.web.id/distribusi/lokasi
+0 53
+https://103.178.175.104:443
+0 1
+https://www.google.com/
+0 105
+- (Direct Request)
+0 3303
+http://vortexsign.web.id/.config/git/config
+0 1
+https://www.vortexsign.web.id
+0 1
+http://vortexsign.web.id
+0 4
+https://vortexsign.web.id/signage
+0 129
+https://vortexsign.web.id/distribusi/46/edit
+0 7
+https://vortexsign.web.id/media/iklan/1785999981_s20260731181543.mp4
+0 7
+https://vortexsign.web.id/signage/28/edit
+0 2
+https://vortexsign.web.id/toko
+0 76
+https://vortexsign.web.id/jadwal/10/edit
+0 8
+https://vortexsign.web.id:443
+0 1
+https://vortexsign.web.id/distribusi/40/edit
+0 6
+https://vortexsign.web.id/distribusi/42/edit
+0 7
+https://vortexsign.web.id/jadwal/11/edit
+0 7
+https://vortexsign.web.id/jadwal/12/edit
+0 1
+https://vortexsign.web.id/distribusi/36/edit
+0 2
+https://vortexsign.web.id/signage/create
+0 14
+https://vortexsign.web.id/file-iklan
+0 121
+https://vortexsign.web.id/distribusi/33/edit
+0 1
+http://vortexsign.web.id/
+0 19
+https://vortexsign.web.id/media/iklan/1781783041_1000076943.mp4
+0 2
+https://vorsorge.feldbach.gv.at//wp-login.php
+0 6
+https://www.binance.com
+0 164
+https://vortexsign.web.id/distribusi/35/edit
+0 2
+https://vortexsign.web.id/signage/19/edit
+0 7
+https://vortexsign.web.id/distribusi/38/edit
+0 2
+https://vortexsign.web.id/login
+0 181
+http://www.vortexsign.web.id/.git-credentials
+0 1
+https://vortexsign.web.id/distribusi/49/edit
+0 2
+https://vortexsign.web.id/jadwal/create
+0 53
+https://vortexsign.web.id/media/iklan/1786054433_s20260720225220.mp4
+0 25
+https://vortexsign.web.id/robots.txt
+0 1
+http://www.vortexsign.web.id/.test.env
+0 1
+https://www.vortexsign.web.id/robots.txt
+0 2
+https://vortexsign.web.id/distribusi/24/validasi
+0 1
+http://vortexsign.web.id:80
+0 2
+https://vortexsign.web.id/file-iklan/create
+0 9
+https://vortexsign.web.id/distribusi
+0 260
+http://127.0.0.1:5500/
+0 2438
+https://vortexsign.web.id/distribusi/45/edit
+0 2
+http://vortexsign.web.id/llms.txt
+0 2
+https://vortexsign.web.id/model-signage/12/edit
+0 2
+https://panel.arvacloud.com/
+0 2
+https://vortexsign.web.id/clients
+0 18
+https://vortexsign.web.id/jadwal
+0 290
+http://www.vortexsign.web.id/.staging.env
+0 1
+https://vortexsign.web.id/toko/create
+0 4
+https://vortexsign.web.id/distribusi/29/edit
+0 4
+https://vortexsign.web.id/
+0 27
+https://vortexsign.web.id/dashboard
+0 93
+https://vortexsign.web.id/distribusi/44/edit
+0 2
+https://vortexsign.web.id/signage/22/edit
+0 3
+https://vortexsign.web.id/signage/21/edit
+0 2
+https://vortexsign.web.id/distribusi/create
+0 98
+https://t.co/
+0 2
+https://vortexsign.web.id
+0 7
+http://www.vortexsign.web.id
+0 1
+https://www.vortexsign.web.id/login
+0 4
+https://vortexsign.web.id/file-iklan/21/edit
+0 2
+http://www.vortexsign.web.id/.config/git/config
+0 1
+https://vortexsign.web.id/signage/26/edit
+0 2
+https://vortexsign.web.id/distribusi/25/edit
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0
+0 10
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Ed
+0 31
+Python/3.11 aiohttp/3.13.5
+0 2
+Mozilla/5.0 (l9scan/2.0.430313e2537313e2837313e2330313; +https://leakix.net)
+0 121
+Mozilla/5.0 (Macintosh; Intel Mac OS X 14_7_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+0 74
+Mozilla/5.0 (X11; Linux x86_64)
+0 19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A
+0 1
+Mozilla/5.0 (compatible; CertLabBot/1.0; certificate research; single GET of the home page)
+0 15
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
+0 1122
+Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+0 3
+fasthttp
+0 2
+Mozilla/5.0 (Linux; arm_64; Android 12; CPH2205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.86.
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.65
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Dalvik/2.1.0 (Linux; U; Android 13; 2201116SG Build/TKQ1.221114.001)
+0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+0 26
+RecordedFuture Global Inventory Crawler
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+0 1
+curl/8.5.0
+0 22
+okhttp/5.3.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Sa
+0 64
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/122.0.6261.89 Mobile/15
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; rv:143.0) Gecko/20100101 Firefox/143.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+0 14
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0
+0 2
+Mozilla/5.0 (compatible; WP-Safe-Scanner/1.0)
+0 117
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+0 31
+metabase-cve-2026-72898-detect/1.0 (benign detection probes only)
+0 2
+Mozilla/5.0 (Linux; Android 14; Xiaomi 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E14
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 160
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+0 22
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+0 17
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0
+0 68
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 27
+Mozilla/5.0 (X11; Linux i686; rv:8.0) Gecko/20100101 Firefox/8.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compat
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+0 4
+curl/8.21.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131
+0 2
+Mozilla/5.0 (Windows NT 6.2; rv:140.0.) Gecko/20100101 Firefox/140.0.
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 
+0 5
+Mozilla/5.0 (compatible; jscrawler/0.1; +https://github.com/)
+0 43
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115
+0 10
+Go-http-client/1.1
+0 20
+visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
+0 7
+okhttp/3.14.9
+0 197
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15
+0 4
+Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.3
+0 3
+Mozilla/5.0 (Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/26.0 Chrome/122.0.0.0 Mobile 
+0 1
+Mozilla/5.0 gitscan-go/0.3
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/121.0
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0
+0 3
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 (compatible; 
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/129.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36 PrivasSignalResea
+0 4
+Mozilla/5.0 (Linux; NetCast; U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 SmartTV/10.0 Colt/2.
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0
+0 2118
+WhatsApp/2.23.20.0
+0 18
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+0 6
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+0 464
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Appleb
+0 12
+Mozilla/5.0 (Linux; Android 11; CPH2373) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+0 229
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+0 1
+TelegramBot (like TwitterBot)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+0 19
+Mozilla/5.0 (compatible; webatlabot/1.0; +https://webatla.com/bot; abuse@webatla.com)
+0 2
+Google-Lens
+0 57
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Reflectionbot/1.0; +https://reflection.ai/bot) Chrome/151.0.0.
+0 3
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0
+0 1
+Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
+0 24
+Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 686
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7727.102 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.3
+0 7
+Mozilla/5.0 (Linux; Android 16; SM-S921U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+0 3
+quic-go-HTTP/3
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0
+0 84
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+0 7
+Dalvik/2.1.0 (Linux; U; Android 11; AQUA Android TV DVB2K Build/RTM7.230903.074)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+0 23
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+0 167
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Viewer/99.9.8
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Sa
+0 4
+Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+0 33
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+0 178
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.
+0 1
+Pandalytics/2.0 (+https://domainsbot.com/network-crawler-pandalytics-kdc68dhsbd/)
+0 3
+Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+0 737
+Mozilla/5.0 (Kubuntu; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+0 1
+Python-urllib/3.10
+0 1
+cve-2026-63030/1.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+0 8
+SCAPAppInstaller/1.8.0 (webOS6.0; LGE; 32SM5J-BP; 03.25.90)
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Version/17.0 Safari/605.1.15
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; DefaultsExposed/1.0; +https://defaults.exposed/headers)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+0 278
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 8
+Scrapy/2.17.0 (+https://scrapy.org)
+0 2
+curl/8.6.0
+0 3
+Mozilla/5.0 (compatible; NicheMinerBot/1.0; +https://nicheminer.net/bot)
+0 4
+SonarPrime RedirectMap/1.0
+0 10
+Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002)
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
